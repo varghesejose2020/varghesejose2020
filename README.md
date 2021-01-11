@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on coding skills.
-- 🌱 I’m currently learning open source technologies and linux fundementals
+- 🌱 I’m currently learning Python, ReactJs, opensource frameworks and trying out Web Development.
 
 
 <p align="center">
