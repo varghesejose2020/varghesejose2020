@@ -1,7 +1,7 @@
 
 
 
-### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> I'm Varghese Jose <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 /> <img  align='right' src="https://github.com/varghesejose2020/varghesejose2020/blob/main/github-github-com.png" width="50%" height="50%"> 
+### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> I'm Varghese Jose <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 /> <img  align='right' src="https://github.com/varghesejose2020/varghesejose2020/blob/main/github-github-com.png" width="40%" height="50%"> 
 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/varghesejose2020)
