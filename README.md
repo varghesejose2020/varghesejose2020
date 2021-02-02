@@ -45,7 +45,7 @@
 
 
 
-
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=varghesejose2020&show_icons=true" /></p>
 
 
 
