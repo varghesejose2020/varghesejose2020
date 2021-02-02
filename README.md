@@ -5,7 +5,9 @@
 
 
 - 🔭 I’m currently working on coding skills.
+- :space_invader: I’m looking forward to contribute to **Open Source Projects**.
 - 🌱 I’m currently learning Python, ReactJs, opensource frameworks and trying out Web Development.
+-  :email:  How to reach me **varghese.jose@tutanota.com**
 
 
 <p align="center">
