@@ -42,7 +42,7 @@
 ![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varghesejose2020" alt="varghesejose2020" /> </p>
+
 
 
 
