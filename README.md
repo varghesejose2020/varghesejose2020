@@ -10,7 +10,7 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/varghesejose2020/varghesejose2020?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 
-- 🔭 I’m currently working on coding skills.
+- 🔭 I’m currently working on websites and apps.
 - :space_invader: I’m looking forward to contribute to **Open Source Projects**.
 - 🌱 I’m currently learning Python, ReactJs, opensource frameworks and trying out Web Development.
 -  :email:  How to reach me **varghese.jose@tutanota.com**
