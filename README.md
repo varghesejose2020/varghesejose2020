@@ -27,7 +27,7 @@
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![Github](https://img.shields.io/badge/GITHUB-007ACC.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Github](https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 
 
