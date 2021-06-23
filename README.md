@@ -1,7 +1,7 @@
 
 
 
-###  I'm Varghese Jose  
+### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Varghese Jose  
 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/varghesejose2020)
@@ -10,10 +10,11 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/varghesejose2020/varghesejose2020?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 
-- 🔭 I’m currently working on websites and apps.
-- :space_invader: I’m looking forward to contribute to **Open Source Projects**.
-- 🌱 I’m currently learning  ReactJs,hugo web development, opensource frameworks and trying out Web Development.
--  :email:  How to reach me **varghese.jose@tutanota.com**
+ 🔭 I’m currently exploring the world of Open Source. <br/>
+ :space_invader: I’m looking forward to contribute to **Open Source Projects**.<br/>
+ 👨‍💻 I’m currently learning  ReactJs,hugo web development, opensource frameworks and trying out Web Development.<br/>
+ :email:  How to reach me **varghese.jose@tutanota.com**<br/>
+ <br/>
 
 
 <p align="center">
@@ -41,6 +42,14 @@
 
 ![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+  <h2 align="center">
+Streak Stats 🔥
+ </h2>
+<p align="center">
+  <a href="https://github.com/varghesejose2020">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=varghesejose2020&theme=shades-of-purple" alt="Varghese's Streak Stats" />
+  </a>
+</p>
 
 
 
