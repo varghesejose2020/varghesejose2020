@@ -42,19 +42,14 @@
 
 <br/>
 
-  <h2 align="center">
-Streak Stats 🔥
- </h2>
-<p align="center">
-  <a href="https://github.com/varghesejose2020">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=varghesejose2020&theme=shades-of-purple" alt="Varghese's Streak Stats" />
-  </a>
+  <p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varghesejose2020&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varghesejose2020&theme=tokyonight" />
 </p>
 
 
 
-
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=varghesejose2020&show_icons=true" /></p>
 
 
 
