@@ -41,6 +41,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
+![snake gif](https://github.com/varghesejose2020/github-profile-snake/blob/output/github-contribution-grid-snake.gif)
 
   <p align="center">
 	
