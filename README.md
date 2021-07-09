@@ -41,8 +41,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-![snake gif](https://github.com/varghesejose2020/github-profile-snake/blob/output/github-contribution-grid-snake.gif)
-
   <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varghesejose2020&show_icons=true&theme=tokyonight" />
@@ -50,7 +48,7 @@
 </p>
 
 
-
+ ![snakegif](https://github.com/varghesejose2020/varghesejose2020/blob/output/github-contribution-grid-snake.gif)
 
 
 
