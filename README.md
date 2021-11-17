@@ -13,7 +13,7 @@
  🔭 I’m currently exploring the world of Open Source. <br/>
  :space_invader: I’m looking forward to contribute to **Open Source Projects**.<br/>
  👨‍💻 I’m currently learning  ReactJs,hugo web development, opensource frameworks and trying out Web Development.<br/>
- 💻 I'm currently contributing on @mattermost Translations.</br>
+ 💻 I'm currently contributing on **@mattermost** Translations.</br>
 
  <br/>
 
