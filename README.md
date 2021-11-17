@@ -14,7 +14,7 @@
  :space_invader: I’m looking forward to contribute to **Open Source Projects**.<br/>
  👨‍💻 I’m currently learning  ReactJs,hugo web development, opensource frameworks and trying out Web Development.<br/>
  💻 I'm currently contributing on @mattermost Translations.</br>
- :email:  How to reach me **varghese.jose@tutanota.com**<br/>
+
  <br/>
 
 
@@ -50,6 +50,19 @@
 
 
  ![snakegif](https://github.com/varghesejose2020/varghesejose2020/blob/output/github-contribution-grid-snake.gif)
+ 
+ 
+ 
+ 
+ <p align="center"> 😃 I would love to connect with you, so please do not hesitate to connect with me on below handles.👇</p>
+ 
+ <p align="center">
+ <a href="https://twitter.com/varghesejosedev"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp;
+ <a href="https://mastodon.social/web/@varghesejose"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/953px-Mastodon_Logotype_%28Simple%29.svg.png" width="25"></img></a>&nbsp;&nbsp;
+<a href="mailto:varghese.jose@tutanota.com"><img src="https://cdn3.iconfinder.com/data/icons/vector-icons-for-mobile-apps-2/512/Mail_black-512.png" width="25"></img></a>&nbsp;&nbsp;
+
+  
+</p>
 
 
 
