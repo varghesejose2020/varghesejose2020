@@ -47,7 +47,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varghesejose2020&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varghesejose2020&theme=tokyonight" />
 </p>
-  # Recent Activity
+
+# Recent Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#35](https://github.com/hoppscotch/docs/pull/35) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
