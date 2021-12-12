@@ -77,7 +77,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varghesejose2020&theme=tokyonight" />
 </p>
 
-# Recent Activity
+# ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/josephjosedev/malayalam-computing/issues/1) in [josephjosedev/malayalam-computing](https://github.com/josephjosedev/malayalam-computing)
