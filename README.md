@@ -51,6 +51,12 @@
 # Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/josephjosedev/malayalam-computing/issues/1) in [josephjosedev/malayalam-computing](https://github.com/josephjosedev/malayalam-computing)
+2. 💪 Opened PR [#35](https://github.com/hoppscotch/docs/pull/35) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+3. 💪 Opened PR [#34](https://github.com/hoppscotch/docs/pull/34) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+4. 💪 Opened PR [#33](https://github.com/hoppscotch/docs/pull/33) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+5. 💪 Opened PR [#32](https://github.com/hoppscotch/docs/pull/32) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+<!--END_SECTION:activity-->
 
 
 
