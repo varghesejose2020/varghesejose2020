@@ -81,11 +81,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/josephjosedev/malayalam-computing/issues/1) in [josephjosedev/malayalam-computing](https://github.com/josephjosedev/malayalam-computing)
-2. 💪 Opened PR [#35](https://github.com/hoppscotch/docs/pull/35) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
-3. 💪 Opened PR [#34](https://github.com/hoppscotch/docs/pull/34) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
-4. 💪 Opened PR [#33](https://github.com/hoppscotch/docs/pull/33) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
-5. 💪 Opened PR [#32](https://github.com/hoppscotch/docs/pull/32) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+1. 💪 Opened PR [#4](https://github.com/jina-ai/jina-ai.github.io/pull/4) in [jina-ai/jina-ai.github.io](https://github.com/jina-ai/jina-ai.github.io)
+2. ❗️ Opened issue [#1](https://github.com/josephjosedev/malayalam-computing/issues/1) in [josephjosedev/malayalam-computing](https://github.com/josephjosedev/malayalam-computing)
+3. 💪 Opened PR [#35](https://github.com/hoppscotch/docs/pull/35) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+4. 💪 Opened PR [#34](https://github.com/hoppscotch/docs/pull/34) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+5. 💪 Opened PR [#33](https://github.com/hoppscotch/docs/pull/33) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
 <!--END_SECTION:activity-->
 
 
