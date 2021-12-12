@@ -18,9 +18,9 @@
  <br/>
 
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-</p>
+</p> -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
