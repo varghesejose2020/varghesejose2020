@@ -49,6 +49,12 @@
 </p>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#35](https://github.com/hoppscotch/docs/pull/35) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+2. 💪 Opened PR [#34](https://github.com/hoppscotch/docs/pull/34) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+3. 💪 Opened PR [#33](https://github.com/hoppscotch/docs/pull/33) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+4. 💪 Opened PR [#32](https://github.com/hoppscotch/docs/pull/32) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+5. 💪 Opened PR [#1984](https://github.com/hoppscotch/hoppscotch/pull/1984) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+<!--END_SECTION:activity-->
 
 
  ![snakegif](https://github.com/varghesejose2020/varghesejose2020/blob/output/github-contribution-grid-snake.gif)
