@@ -48,7 +48,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varghesejose2020&theme=tokyonight" />
 </p>
 
-"<!--START_SECTION:activity-->"
+<!--START_SECTION:activity-->
 
 
  ![snakegif](https://github.com/varghesejose2020/varghesejose2020/blob/output/github-contribution-grid-snake.gif)
