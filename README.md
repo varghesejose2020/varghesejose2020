@@ -69,7 +69,7 @@
 ![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![LINUX](https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 
-# Statistics
+### Statistics 📈
 
 [![Varghese's github activity graph](https://activity-graph.herokuapp.com/graph?username=varghesejose2020&theme=xcode)](https://git.io/starlightknown)
   <p align="center">
