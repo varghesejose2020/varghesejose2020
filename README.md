@@ -82,10 +82,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#255](https://github.com/legesher/legesher-translations/issues/255) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
-2. 💪 Opened PR [#290](https://github.com/legesher/legesher-translations/pull/290) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
-3. 💪 Opened PR [#4](https://github.com/jina-ai/jina-ai.github.io/pull/4) in [jina-ai/jina-ai.github.io](https://github.com/jina-ai/jina-ai.github.io)
-4. ❗️ Opened issue [#1](https://github.com/josephjosedev/malayalam-computing/issues/1) in [josephjosedev/malayalam-computing](https://github.com/josephjosedev/malayalam-computing)
-5. 💪 Opened PR [#35](https://github.com/hoppscotch/docs/pull/35) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+2. 🗣 Commented on [#255](https://github.com/legesher/legesher-translations/issues/255) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
+3. 💪 Opened PR [#290](https://github.com/legesher/legesher-translations/pull/290) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
+4. 💪 Opened PR [#4](https://github.com/jina-ai/jina-ai.github.io/pull/4) in [jina-ai/jina-ai.github.io](https://github.com/jina-ai/jina-ai.github.io)
+5. ❗️ Opened issue [#1](https://github.com/josephjosedev/malayalam-computing/issues/1) in [josephjosedev/malayalam-computing](https://github.com/josephjosedev/malayalam-computing)
 <!--END_SECTION:activity-->
 
 
