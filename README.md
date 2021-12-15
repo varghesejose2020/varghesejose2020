@@ -81,11 +81,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#291](https://github.com/legesher/legesher-translations/pull/291) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
-2. 🗣 Commented on [#255](https://github.com/legesher/legesher-translations/issues/255) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
+1. 💪 Opened PR [#38](https://github.com/hoppscotch/docs/pull/38) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+2. 💪 Opened PR [#291](https://github.com/legesher/legesher-translations/pull/291) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
 3. 🗣 Commented on [#255](https://github.com/legesher/legesher-translations/issues/255) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
-4. 💪 Opened PR [#290](https://github.com/legesher/legesher-translations/pull/290) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
-5. 💪 Opened PR [#4](https://github.com/jina-ai/jina-ai.github.io/pull/4) in [jina-ai/jina-ai.github.io](https://github.com/jina-ai/jina-ai.github.io)
+4. 🗣 Commented on [#255](https://github.com/legesher/legesher-translations/issues/255) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
+5. 💪 Opened PR [#290](https://github.com/legesher/legesher-translations/pull/290) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
 <!--END_SECTION:activity-->
 
 
