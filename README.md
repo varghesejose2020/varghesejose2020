@@ -82,11 +82,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6993](https://github.com/simple-icons/simple-icons/issues/6993) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 💪 Opened PR [#39](https://github.com/hoppscotch/docs/pull/39) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
-3. 💪 Opened PR [#38](https://github.com/hoppscotch/docs/pull/38) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
-4. 💪 Opened PR [#291](https://github.com/legesher/legesher-translations/pull/291) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
-5. 🗣 Commented on [#255](https://github.com/legesher/legesher-translations/issues/255) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
+1. ❗️ Opened issue [#886](https://github.com/EddieHubCommunity/LinkFree/issues/886) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 💪 Opened PR [#885](https://github.com/EddieHubCommunity/LinkFree/pull/885) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. ❗️ Opened issue [#6993](https://github.com/simple-icons/simple-icons/issues/6993) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 💪 Opened PR [#39](https://github.com/hoppscotch/docs/pull/39) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+5. 💪 Opened PR [#38](https://github.com/hoppscotch/docs/pull/38) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
 <!--END_SECTION:activity-->
 
 
