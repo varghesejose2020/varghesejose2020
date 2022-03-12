@@ -82,11 +82,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#995](https://github.com/mattermost/mattermost-developer-documentation/issues/995) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-2. ❗️ Opened issue [#7138](https://github.com/simple-icons/simple-icons/issues/7138) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 💪 Opened PR [#589](https://github.com/microsoft/Web-Dev-For-Beginners/pull/589) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-4. 💪 Opened PR [#2192](https://github.com/mattermost/focalboard/pull/2192) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-5. 💪 Opened PR [#995](https://github.com/mattermost/mattermost-developer-documentation/pull/995) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+1. 💪 Opened PR [#111](https://github.com/amplication/docs/pull/111) in [amplication/docs](https://github.com/amplication/docs)
+2. 🗣 Commented on [#995](https://github.com/mattermost/mattermost-developer-documentation/issues/995) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+3. ❗️ Opened issue [#7138](https://github.com/simple-icons/simple-icons/issues/7138) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 💪 Opened PR [#589](https://github.com/microsoft/Web-Dev-For-Beginners/pull/589) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+5. 💪 Opened PR [#2192](https://github.com/mattermost/focalboard/pull/2192) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
 <!--END_SECTION:activity-->
 
 
