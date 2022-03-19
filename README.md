@@ -82,11 +82,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/amplication/docs/issues/111) in [amplication/docs](https://github.com/amplication/docs)
-2. 💪 Opened PR [#111](https://github.com/amplication/docs/pull/111) in [amplication/docs](https://github.com/amplication/docs)
-3. 🗣 Commented on [#995](https://github.com/mattermost/mattermost-developer-documentation/issues/995) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-4. ❗️ Opened issue [#7138](https://github.com/simple-icons/simple-icons/issues/7138) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 💪 Opened PR [#589](https://github.com/microsoft/Web-Dev-For-Beginners/pull/589) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+1. 💪 Opened PR [#27](https://github.com/aviyelverse/aviyel-first-pr/pull/27) in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)
+2. 🗣 Commented on [#111](https://github.com/amplication/docs/issues/111) in [amplication/docs](https://github.com/amplication/docs)
+3. 💪 Opened PR [#111](https://github.com/amplication/docs/pull/111) in [amplication/docs](https://github.com/amplication/docs)
+4. 🗣 Commented on [#995](https://github.com/mattermost/mattermost-developer-documentation/issues/995) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+5. ❗️ Opened issue [#7138](https://github.com/simple-icons/simple-icons/issues/7138) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 
