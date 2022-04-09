@@ -12,11 +12,11 @@
 
  🔭 I’m currently exploring the world of Open Source. <br/>
  :space_invader: I’m looking forward to contribute to **Open Source Projects**.<br/>
- 👨‍💻 I’m currently learning  ReactJs,hugo web development, opensource frameworks and trying out Web Development.<br/>
+ 👨‍💻 I’m currently working on  No code ,low code application opensource frameworks.<br/>
   :raised_hands: Communities active with ![MLH](https://img.shields.io/badge/Major%20League%20Hacking-548CFF.svg?\&style=plastic\&logo=majorleaguehacking\&logoColor=265A8F) ![Mattermost](https://img.shields.io/badge/Mattermost-navy?\&style=plastic\&logo=mattermost\&logoColor=0058CC)  </br>
  💻 I'm actively contributing on [![Mattermost](https://img.shields.io/badge/Mattermost-navy?\&style=plastic\&logo=mattermost\&logoColor=0058CC)](https://mattermost.com/) ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-120078.svg?\&style=plastic\&logo=hoppscotch\&logoColor=31C48D) ![Gatsby](https://img.shields.io/badge/Gatsby-navy?\&style=plastic\&logo=gatsby\&logoColor=663399)</br>
- 🥇 Contributed in the [![TwilioTalon](https://img.shields.io/badge/Twilio%20Talon-navy?style=plastic&logo=twilio)](https://github.com/TwilioQuest/talon)program designed to send Twilio developers  code to space. [see my code on space](https://drive.google.com/file/d/1zF8x--A3_6KCpTKJ0QUyD2_ZnO-SCJjh/view)
-
+ 🥇 Contributed in the [![TwilioTalon](https://img.shields.io/badge/Twilio%20Talon-navy?style=plastic&logo=twilio)](https://github.com/TwilioQuest/talon)program designed to send Twilio developers  code to space. [see my code on space](https://drive.google.com/file/d/1zF8x--A3_6KCpTKJ0QUyD2_ZnO-SCJjh/view)</br>
+:trophy: Won Second prize in ![Gitlab](https://img.shields.io/badge/GitLab%20Q1%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=FCA121)[see Hackathon Results](https://forum.gitlab.com/t/announcing-gitlabs-q1-2022-hackathons-winners/68051/1)
  <br/>
 
 
