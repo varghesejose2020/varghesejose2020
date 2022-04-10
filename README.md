@@ -12,7 +12,7 @@
 
  🔭 I’m currently exploring the world of Open Source. <br/>
  :space_invader: I’m looking forward to contribute to **Open Source Projects**.<br/>
- 👨‍💻 I’m currently working on  No code ,low code application opensource frameworks.<br/>
+ 👨‍💻 I’m currently working on  No Code,Low Code application opensource frameworks.<br/>
   :raised_hands: Communities active with ![MLH](https://img.shields.io/badge/Major%20League%20Hacking-548CFF.svg?\&style=plastic\&logo=majorleaguehacking\&logoColor=265A8F) ![Mattermost](https://img.shields.io/badge/Mattermost-navy?\&style=plastic\&logo=mattermost\&logoColor=0058CC)  </br>
  💻 I'm actively contributing on [![Mattermost](https://img.shields.io/badge/Mattermost-navy?\&style=plastic\&logo=mattermost\&logoColor=0058CC)](https://mattermost.com/) ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-120078.svg?\&style=plastic\&logo=hoppscotch\&logoColor=31C48D) ![Gatsby](https://img.shields.io/badge/Gatsby-navy?\&style=plastic\&logo=gatsby\&logoColor=663399)</br>
  🥇 Contributed in the [![TwilioTalon](https://img.shields.io/badge/Twilio%20Talon-navy?style=plastic&logo=twilio)](https://github.com/TwilioQuest/talon)program designed to send Twilio developers  code to space. [see my code on space](https://drive.google.com/file/d/1zF8x--A3_6KCpTKJ0QUyD2_ZnO-SCJjh/view)</br>
@@ -105,6 +105,7 @@
 <a href="https://peerlist.io/varghesejose"><img src="https://avatars.githubusercontent.com/u/69460546?s=200&v=4" width="25"></img></a>&nbsp;&nbsp;
 <a href="https://gitlab.com/varghesejose2020"><img src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-svg-vector.svg" width="25"></img></a>&nbsp;&nbsp;
 <a href="https://www.polywork.com/varghesejose"><img src="https://cdn.dribbble.com/users/5584261/avatars/normal/82b4cb25c1aa5b8f7f131e03fb1b7416.png?1593789111" width="25"></img></a>&nbsp;&nbsp;
+
   
 </p>
 
