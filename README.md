@@ -83,11 +83,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1033](https://github.com/mattermost/mattermost-handbook/pull/1033) in [mattermost/mattermost-handbook](https://github.com/mattermost/mattermost-handbook)
-2. 💪 Opened PR [#2919](https://github.com/mattermost/focalboard/pull/2919) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-3. 💪 Opened PR [#1054](https://github.com/mattermost/mattermost-developer-documentation/pull/1054) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-4. 🗣 Commented on [#362](https://github.com/appsmithorg/appsmith-docs/issues/362) in [appsmithorg/appsmith-docs](https://github.com/appsmithorg/appsmith-docs)
-5. 💪 Opened PR [#362](https://github.com/appsmithorg/appsmith-docs/pull/362) in [appsmithorg/appsmith-docs](https://github.com/appsmithorg/appsmith-docs)
+1. ❗️ Opened issue [#7358](https://github.com/simple-icons/simple-icons/issues/7358) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 💪 Opened PR [#1033](https://github.com/mattermost/mattermost-handbook/pull/1033) in [mattermost/mattermost-handbook](https://github.com/mattermost/mattermost-handbook)
+3. 💪 Opened PR [#2919](https://github.com/mattermost/focalboard/pull/2919) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+4. 💪 Opened PR [#1054](https://github.com/mattermost/mattermost-developer-documentation/pull/1054) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+5. 🗣 Commented on [#362](https://github.com/appsmithorg/appsmith-docs/issues/362) in [appsmithorg/appsmith-docs](https://github.com/appsmithorg/appsmith-docs)
 <!--END_SECTION:activity-->
 
 
