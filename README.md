@@ -83,11 +83,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5680](https://github.com/mattermost/docs/pull/5680) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 💪 Opened PR [#1](https://github.com/varghesejose2020/docs-1/pull/1) in [varghesejose2020/docs-1](https://github.com/varghesejose2020/docs-1)
-3. 🗣 Commented on [#4290](https://github.com/education/GitHubGraduation-2022/issues/4290) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-4. 💪 Opened PR [#5338](https://github.com/education/GitHubGraduation-2022/pull/5338) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-5. ❗️ Opened issue [#7358](https://github.com/simple-icons/simple-icons/issues/7358) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#5338](https://github.com/education/GitHubGraduation-2022/issues/5338) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+2. 💪 Opened PR [#5680](https://github.com/mattermost/docs/pull/5680) in [mattermost/docs](https://github.com/mattermost/docs)
+3. 💪 Opened PR [#1](https://github.com/varghesejose2020/docs-1/pull/1) in [varghesejose2020/docs-1](https://github.com/varghesejose2020/docs-1)
+4. 🗣 Commented on [#4290](https://github.com/education/GitHubGraduation-2022/issues/4290) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+5. 💪 Opened PR [#5338](https://github.com/education/GitHubGraduation-2022/pull/5338) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
 <!--END_SECTION:activity-->
 
 
