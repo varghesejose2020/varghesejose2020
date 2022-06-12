@@ -83,11 +83,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#705](https://github.com/mattermost/mattermost-api-reference/pull/705) in [mattermost/mattermost-api-reference](https://github.com/mattermost/mattermost-api-reference)
-2. 💪 Opened PR [#701](https://github.com/mattermost/mattermost-api-reference/pull/701) in [mattermost/mattermost-api-reference](https://github.com/mattermost/mattermost-api-reference)
-3. 🗣 Commented on [#5338](https://github.com/education/GitHubGraduation-2022/issues/5338) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-4. 💪 Opened PR [#5680](https://github.com/mattermost/docs/pull/5680) in [mattermost/docs](https://github.com/mattermost/docs)
-5. 💪 Opened PR [#1](https://github.com/varghesejose2020/docs-1/pull/1) in [varghesejose2020/docs-1](https://github.com/varghesejose2020/docs-1)
+1. ❗️ Opened issue [#19120](https://github.com/FortAwesome/Font-Awesome/issues/19120) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+2. 💪 Opened PR [#705](https://github.com/mattermost/mattermost-api-reference/pull/705) in [mattermost/mattermost-api-reference](https://github.com/mattermost/mattermost-api-reference)
+3. 💪 Opened PR [#701](https://github.com/mattermost/mattermost-api-reference/pull/701) in [mattermost/mattermost-api-reference](https://github.com/mattermost/mattermost-api-reference)
+4. 🗣 Commented on [#5338](https://github.com/education/GitHubGraduation-2022/issues/5338) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+5. 💪 Opened PR [#5680](https://github.com/mattermost/docs/pull/5680) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 
 
