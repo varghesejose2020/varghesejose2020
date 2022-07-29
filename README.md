@@ -85,11 +85,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1053](https://github.com/mattermost/mattermost-handbook/pull/1053) in [mattermost/mattermost-handbook](https://github.com/mattermost/mattermost-handbook)
-2. 💪 Opened PR [#304](https://github.com/mattermost/mattermost-plugin-gitlab/pull/304) in [mattermost/mattermost-plugin-gitlab](https://github.com/mattermost/mattermost-plugin-gitlab)
-3. ❗️ Opened issue [#19120](https://github.com/FortAwesome/Font-Awesome/issues/19120) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-4. 💪 Opened PR [#705](https://github.com/mattermost/mattermost-api-reference/pull/705) in [mattermost/mattermost-api-reference](https://github.com/mattermost/mattermost-api-reference)
-5. 💪 Opened PR [#701](https://github.com/mattermost/mattermost-api-reference/pull/701) in [mattermost/mattermost-api-reference](https://github.com/mattermost/mattermost-api-reference)
+1. 💪 Opened PR [#1058](https://github.com/mattermost/mattermost-handbook/pull/1058) in [mattermost/mattermost-handbook](https://github.com/mattermost/mattermost-handbook)
+2. 💪 Opened PR [#1053](https://github.com/mattermost/mattermost-handbook/pull/1053) in [mattermost/mattermost-handbook](https://github.com/mattermost/mattermost-handbook)
+3. 💪 Opened PR [#304](https://github.com/mattermost/mattermost-plugin-gitlab/pull/304) in [mattermost/mattermost-plugin-gitlab](https://github.com/mattermost/mattermost-plugin-gitlab)
+4. ❗️ Opened issue [#19120](https://github.com/FortAwesome/Font-Awesome/issues/19120) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+5. 💪 Opened PR [#705](https://github.com/mattermost/mattermost-api-reference/pull/705) in [mattermost/mattermost-api-reference](https://github.com/mattermost/mattermost-api-reference)
 <!--END_SECTION:activity-->
 
 
