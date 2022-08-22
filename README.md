@@ -85,11 +85,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1092](https://github.com/novuhq/novu/issues/1092) in [novuhq/novu](https://github.com/novuhq/novu)
-2. 💪 Opened PR [#185](https://github.com/amplication/docs/pull/185) in [amplication/docs](https://github.com/amplication/docs)
-3. 🗣 Commented on [#3459](https://github.com/amplication/amplication/issues/3459) in [amplication/amplication](https://github.com/amplication/amplication)
-4. 💪 Opened PR [#71](https://github.com/hoppscotch/docs/pull/71) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
-5. 💪 Opened PR [#1](https://github.com/fonoster/.github/pull/1) in [fonoster/.github](https://github.com/fonoster/.github)
+1. ❗️ Opened issue [#1107](https://github.com/novuhq/novu/issues/1107) in [novuhq/novu](https://github.com/novuhq/novu)
+2. ❗️ Opened issue [#1092](https://github.com/novuhq/novu/issues/1092) in [novuhq/novu](https://github.com/novuhq/novu)
+3. 💪 Opened PR [#185](https://github.com/amplication/docs/pull/185) in [amplication/docs](https://github.com/amplication/docs)
+4. 🗣 Commented on [#3459](https://github.com/amplication/amplication/issues/3459) in [amplication/amplication](https://github.com/amplication/amplication)
+5. 💪 Opened PR [#71](https://github.com/hoppscotch/docs/pull/71) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
 <!--END_SECTION:activity-->
 
 
