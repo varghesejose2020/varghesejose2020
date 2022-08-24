@@ -85,11 +85,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1114](https://github.com/novuhq/novu/issues/1114) in [novuhq/novu](https://github.com/novuhq/novu)
-2. 💪 Opened PR [#29](https://github.com/novuhq/website/pull/29) in [novuhq/website](https://github.com/novuhq/website)
-3. ❗️ Opened issue [#28](https://github.com/novuhq/website/issues/28) in [novuhq/website](https://github.com/novuhq/website)
-4. ❗️ Opened issue [#1107](https://github.com/novuhq/novu/issues/1107) in [novuhq/novu](https://github.com/novuhq/novu)
-5. ❗️ Opened issue [#1092](https://github.com/novuhq/novu/issues/1092) in [novuhq/novu](https://github.com/novuhq/novu)
+1. 💪 Opened PR [#5](https://github.com/novuhq/api-docs/pull/5) in [novuhq/api-docs](https://github.com/novuhq/api-docs)
+2. ❗️ Opened issue [#1114](https://github.com/novuhq/novu/issues/1114) in [novuhq/novu](https://github.com/novuhq/novu)
+3. 💪 Opened PR [#29](https://github.com/novuhq/website/pull/29) in [novuhq/website](https://github.com/novuhq/website)
+4. ❗️ Opened issue [#28](https://github.com/novuhq/website/issues/28) in [novuhq/website](https://github.com/novuhq/website)
+5. ❗️ Opened issue [#1107](https://github.com/novuhq/novu/issues/1107) in [novuhq/novu](https://github.com/novuhq/novu)
 <!--END_SECTION:activity-->
 
 
