@@ -104,9 +104,9 @@
  <p align="center">
  <a href="https://twitter.com/varghesejosedev"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="25"></img></a>&nbsp;&nbsp;
  <a href="https://mastodon.social/web/@varghesejose"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg"width="25"></img></a>&nbsp;&nbsp;
-<a href="mailto:varghese.jose@tutanota.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Tutanota_logo.svg" width="25"></img></a>&nbsp;&nbsp;
+<a href="mailto:varghese.jose@tutanota.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="25"></img></a>&nbsp;&nbsp;
 <a href="https://peerlist.io/varghesejose"><img src="https://avatars.githubusercontent.com/u/69460546?s=200&v=4" width="25"></img></a>&nbsp;&nbsp;
-<a href="https://gitlab.com/varghesejose2020"><img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="35"></img></a>&nbsp;&nbsp;
+<a href="https://gitlab.com/varghesejose2020"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" width="100"></img></a>&nbsp;&nbsp;
 <a href="https://www.polywork.com/varghesejose"><img src="https://cdn.dribbble.com/users/5584261/avatars/normal/82b4cb25c1aa5b8f7f131e03fb1b7416.png?1593789111" width="25"></img></a>&nbsp;&nbsp;
 
   
