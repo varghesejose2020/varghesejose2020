@@ -90,10 +90,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1122](https://github.com/mattermost/mattermost-developer-documentation/issues/1122) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-2. 💪 Opened PR [#65](https://github.com/hasthamalp/learn-coding/pull/65) in [hasthamalp/learn-coding](https://github.com/hasthamalp/learn-coding)
-3. 💪 Opened PR [#64](https://github.com/hasthamalp/learn-coding/pull/64) in [hasthamalp/learn-coding](https://github.com/hasthamalp/learn-coding)
-4. ❗️ Opened issue [#3899](https://github.com/mattermost/focalboard/issues/3899) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-5. ❗️ Opened issue [#3898](https://github.com/mattermost/focalboard/issues/3898) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+2. 🗣 Commented on [#1122](https://github.com/mattermost/mattermost-developer-documentation/issues/1122) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+3. 💪 Opened PR [#65](https://github.com/hasthamalp/learn-coding/pull/65) in [hasthamalp/learn-coding](https://github.com/hasthamalp/learn-coding)
+4. 💪 Opened PR [#64](https://github.com/hasthamalp/learn-coding/pull/64) in [hasthamalp/learn-coding](https://github.com/hasthamalp/learn-coding)
+5. ❗️ Opened issue [#3899](https://github.com/mattermost/focalboard/issues/3899) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
 <!--END_SECTION:activity-->
 
 
