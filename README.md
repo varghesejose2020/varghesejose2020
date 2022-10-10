@@ -90,10 +90,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1122](https://github.com/mattermost/mattermost-developer-documentation/issues/1122) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-2. ❗️ Opened issue [#7935](https://github.com/simple-icons/simple-icons/issues/7935) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#1122](https://github.com/mattermost/mattermost-developer-documentation/issues/1122) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+2. 🗣 Commented on [#1122](https://github.com/mattermost/mattermost-developer-documentation/issues/1122) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+3. ❗️ Opened issue [#7935](https://github.com/simple-icons/simple-icons/issues/7935) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 4. 🗣 Commented on [#1122](https://github.com/mattermost/mattermost-developer-documentation/issues/1122) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-5. 💪 Opened PR [#65](https://github.com/hasthamalp/learn-coding/pull/65) in [hasthamalp/learn-coding](https://github.com/hasthamalp/learn-coding)
+5. 🗣 Commented on [#1122](https://github.com/mattermost/mattermost-developer-documentation/issues/1122) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
 <!--END_SECTION:activity-->
 
 
