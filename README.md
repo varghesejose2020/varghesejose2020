@@ -79,8 +79,8 @@
 
 ### Statistics 📈
 
-[![Varghese's github activity graph](https://activity-graph.herokuapp.com/graph?username=varghesejose2020&theme=xcode)](https://git.io/starlightknown)
-  <p align="center">
+<!-- [![Varghese's github activity graph](https://activity-graph.herokuapp.com/graph?username=varghesejose2020&theme=xcode)](https://git.io/starlightknown)
+  <p align="center"> -->
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varghesejose2020&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varghesejose2020&theme=tokyonight" />
