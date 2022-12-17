@@ -89,11 +89,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1186](https://github.com/mattermost/mattermost-developer-documentation/issues/1186) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-2. 💪 Opened PR [#1186](https://github.com/mattermost/mattermost-developer-documentation/pull/1186) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-3. ❗️ Opened issue [#8371](https://github.com/WeblateOrg/weblate/issues/8371) in [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)
-4. ❗️ Opened issue [#1160](https://github.com/WeblateOrg/website/issues/1160) in [WeblateOrg/website](https://github.com/WeblateOrg/website)
-5. 🗣 Commented on [#3983](https://github.com/mattermost/focalboard/issues/3983) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+1. 💪 Opened PR [#1191](https://github.com/mattermost/mattermost-developer-documentation/pull/1191) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+2. 🗣 Commented on [#1186](https://github.com/mattermost/mattermost-developer-documentation/issues/1186) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+3. 💪 Opened PR [#1186](https://github.com/mattermost/mattermost-developer-documentation/pull/1186) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+4. ❗️ Opened issue [#8371](https://github.com/WeblateOrg/weblate/issues/8371) in [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)
+5. ❗️ Opened issue [#1160](https://github.com/WeblateOrg/website/issues/1160) in [WeblateOrg/website](https://github.com/WeblateOrg/website)
 <!--END_SECTION:activity-->
 
 
