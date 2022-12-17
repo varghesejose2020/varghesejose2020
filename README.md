@@ -18,9 +18,9 @@
  🌟 Contributed in the [![TwilioTalon](https://img.shields.io/badge/Twilio%20Talon-navy?style=plastic&logo=twilio)](https://github.com/TwilioQuest/talon)program designed to send Twilio developers  code to space. [see my code on space](https://drive.google.com/file/d/1zF8x--A3_6KCpTKJ0QUyD2_ZnO-SCJjh/view)</br>
 :trophy: Won *Second prize* in ![Gitlab](https://img.shields.io/badge/GitLab%20Q1%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) [Please check it out](https://forum.gitlab.com/t/announcing-gitlabs-q1-2022-hackathons-winners/68051/1)
  <br/>
- 🥈 Won *Second prize* in ![Gitlab](https://img.shields.io/badge/GitLab%20Q2%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=FCA121) [Please check it out](https://forum.gitlab.com/t/announcing-gitlabs-q2-2022-hackathon-winners/71383/1)
+ 🥈 Won *Second prize* in ![Gitlab](https://img.shields.io/badge/GitLab%20Q2%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) [Please check it out](https://forum.gitlab.com/t/announcing-gitlabs-q2-2022-hackathon-winners/71383/1)
  <br/>
- 🥈 Won *Second prize* in ![Gitlab](https://img.shields.io/badge/GitLab%20Q3%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=FCA121) [Please check it out](https://forum.gitlab.com/t/announcing-gitlabs-q3-hackathon-winners/75438)
+ 🥈 Won *Second prize* in ![Gitlab](https://img.shields.io/badge/GitLab%20Q3%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) [Please check it out](https://forum.gitlab.com/t/announcing-gitlabs-q3-hackathon-winners/75438)
  <br/>
  <p align="center">
  <a href="https://novu.co/contributors/varghesejose2020/"><img src="https://contributors.novu.co/profiles/varghesejose2020-small.jpg"  width="400" alt="" /></a>
