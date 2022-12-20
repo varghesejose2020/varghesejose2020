@@ -89,11 +89,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#1191](https://github.com/mattermost/mattermost-developer-documentation/pull/1191) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-2. ❌ Closed PR [#1191](https://github.com/mattermost/mattermost-developer-documentation/pull/1191) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-3. 💪 Opened PR [#1191](https://github.com/mattermost/mattermost-developer-documentation/pull/1191) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-4. 🗣 Commented on [#1186](https://github.com/mattermost/mattermost-developer-documentation/issues/1186) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-5. 💪 Opened PR [#1186](https://github.com/mattermost/mattermost-developer-documentation/pull/1186) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+1. 🗣 Commented on [#1191](https://github.com/mattermost/mattermost-developer-documentation/issues/1191) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+2. ❌ Reopened PR [#1191](https://github.com/mattermost/mattermost-developer-documentation/pull/1191) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+3. ❌ Closed PR [#1191](https://github.com/mattermost/mattermost-developer-documentation/pull/1191) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+4. 💪 Opened PR [#1191](https://github.com/mattermost/mattermost-developer-documentation/pull/1191) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+5. 🗣 Commented on [#1186](https://github.com/mattermost/mattermost-developer-documentation/issues/1186) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
 <!--END_SECTION:activity-->
 
 
