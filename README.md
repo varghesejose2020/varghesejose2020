@@ -98,7 +98,7 @@
 
 
 
- ![snakegif](https://github.com/varghesejose2020/varghesejose2020/blob/output/github-contribution-grid-snake.gif)
+<!--![snakegif](https://github.com/varghesejose2020/varghesejose2020/blob/output/github-contribution-grid-snake.gif)-->
  
  
  
