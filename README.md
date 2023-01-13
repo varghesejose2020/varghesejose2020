@@ -90,10 +90,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1191](https://github.com/mattermost/mattermost-developer-documentation/issues/1191) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-2. 💪 Opened PR [#4437](https://github.com/mattermost/focalboard/pull/4437) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-3. ❌ Closed PR [#3983](https://github.com/mattermost/focalboard/pull/3983) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-4. 💪 Opened PR [#6139](https://github.com/mattermost/docs/pull/6139) in [mattermost/docs](https://github.com/mattermost/docs)
-5. 🗣 Commented on [#1191](https://github.com/mattermost/mattermost-developer-documentation/issues/1191) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+2. 🗣 Commented on [#1191](https://github.com/mattermost/mattermost-developer-documentation/issues/1191) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+3. 💪 Opened PR [#4437](https://github.com/mattermost/focalboard/pull/4437) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+4. ❌ Closed PR [#3983](https://github.com/mattermost/focalboard/pull/3983) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+5. 💪 Opened PR [#6139](https://github.com/mattermost/docs/pull/6139) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 
 
