@@ -89,11 +89,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/novuhq/contributors/issues/2) in [novuhq/contributors](https://github.com/novuhq/contributors)
-2. 🗣 Commented on [#1191](https://github.com/mattermost/mattermost-developer-documentation/issues/1191) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+1. 💪 Opened PR [#2](https://github.com/nocodb/noco-docs/pull/2) in [nocodb/noco-docs](https://github.com/nocodb/noco-docs)
+2. 🗣 Commented on [#2](https://github.com/novuhq/contributors/issues/2) in [novuhq/contributors](https://github.com/novuhq/contributors)
 3. 🗣 Commented on [#1191](https://github.com/mattermost/mattermost-developer-documentation/issues/1191) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-4. 💪 Opened PR [#4437](https://github.com/mattermost/focalboard/pull/4437) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-5. ❌ Closed PR [#3983](https://github.com/mattermost/focalboard/pull/3983) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+4. 🗣 Commented on [#1191](https://github.com/mattermost/mattermost-developer-documentation/issues/1191) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+5. 💪 Opened PR [#4437](https://github.com/mattermost/focalboard/pull/4437) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
 <!--END_SECTION:activity-->
 
 
