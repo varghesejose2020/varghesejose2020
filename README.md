@@ -89,11 +89,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#304](https://github.com/mattermost/mattermost-plugin-gitlab/issues/304) in [mattermost/mattermost-plugin-gitlab](https://github.com/mattermost/mattermost-plugin-gitlab)
-2. 🗣 Commented on [#4437](https://github.com/mattermost/focalboard/issues/4437) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-3. 💪 Opened PR [#1217](https://github.com/mattermost/mattermost-developer-documentation/pull/1217) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-4. 🗣 Commented on [#8](https://github.com/gokulkrishh/expense.fyi/issues/8) in [gokulkrishh/expense.fyi](https://github.com/gokulkrishh/expense.fyi)
-5. 💪 Opened PR [#8](https://github.com/gokulkrishh/expense.fyi/pull/8) in [gokulkrishh/expense.fyi](https://github.com/gokulkrishh/expense.fyi)
+1. 💪 Opened PR [#6266](https://github.com/mattermost/docs/pull/6266) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 🗣 Commented on [#304](https://github.com/mattermost/mattermost-plugin-gitlab/issues/304) in [mattermost/mattermost-plugin-gitlab](https://github.com/mattermost/mattermost-plugin-gitlab)
+3. 🗣 Commented on [#4437](https://github.com/mattermost/focalboard/issues/4437) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+4. 💪 Opened PR [#1217](https://github.com/mattermost/mattermost-developer-documentation/pull/1217) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+5. 🗣 Commented on [#8](https://github.com/gokulkrishh/expense.fyi/issues/8) in [gokulkrishh/expense.fyi](https://github.com/gokulkrishh/expense.fyi)
 <!--END_SECTION:activity-->
 
 
