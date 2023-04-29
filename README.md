@@ -106,7 +106,7 @@
  <p align="center"> 😃 I would love to connect with you, so please do not hesitate to connect with me on below handles.👇</p>
  
  <p align="center">
- <a href="https://twitter.com/varghesejosedev"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="25"></img></a>&nbsp;&nbsp;
+ <a href="https://twitter.com/varghesejosedev"><img src="https://user-images.githubusercontent.com/71702982/235300942-700f7965-cc95-441c-956c-3b3beea2d96b.svg" width="25"></img></a>&nbsp;&nbsp;
  <a href="https://mastodon.social/web/@varghesejose"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg"width="25"></img></a>&nbsp;&nbsp;
 <a href="mailto:varghese.jose@tutanota.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="25"></img></a>&nbsp;&nbsp;
 <a href="https://peerlist.io/varghesejose"><img src="https://avatars.githubusercontent.com/u/69460546?s=200&v=4" width="25"></img></a>&nbsp;&nbsp;
