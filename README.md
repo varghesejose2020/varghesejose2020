@@ -46,7 +46,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%47A248.svg?logo=mongodb&logoColor=#47A248"></a>
 <!-- ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
@@ -82,7 +82,7 @@
 <!-- [![Varghese's github activity graph](https://activity-graph.herokuapp.com/graph?username=varghesejose2020&theme=xcode)](https://git.io/starlightknown) -->
   <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varghesejose2020&show_icons=true&theme=tokyonight" />
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varghesejose2020&show_icons=true&theme=tokyonight" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varghesejose2020&theme=tokyonight" />
 </p>
 
