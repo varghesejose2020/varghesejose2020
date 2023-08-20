@@ -22,6 +22,8 @@
  <br/>
  🥈 Won *Second prize* in ![Gitlab](https://img.shields.io/badge/GitLab%20Q3%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) [Please check it out](https://forum.gitlab.com/t/announcing-gitlabs-q3-hackathon-winners/75438)
  <br/>
+ +🏅 Won *Participation  prize* in ![Gitlab](https://img.shields.io/badge/GitLabFY24%202023%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) [Please check it out](https://forum.gitlab.com/t/announcing-the-fy24-q2-hackathon-results/91342)
+ <br/>
  <p align="center">
  <a href="https://novu.co/contributors/varghesejose2020/"><img src="https://contributors.novu.co/profiles/varghesejose2020-small.jpg"  width="400" alt="" /></a>
 
