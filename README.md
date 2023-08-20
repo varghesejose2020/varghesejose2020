@@ -91,7 +91,7 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/GH-Event-Demos/random-name-picker/pull/8) in [GH-Event-Demos/random-name-picker](https://github.com/GH-Event-Demos/random-name-picker)
+1. ❗ Opened issue [#134](https://github.com/hoppscotch/docs/issues/134) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
 2. 💪 Opened PR [#3](https://github.com/novuhq/connect/pull/3) in [novuhq/connect](https://github.com/novuhq/connect)
 3. 🗣 Commented on [#4437](https://github.com/mattermost/focalboard/issues/4437) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
 4. 💪 Opened PR [#6266](https://github.com/mattermost/docs/pull/6266) in [mattermost/docs](https://github.com/mattermost/docs)
