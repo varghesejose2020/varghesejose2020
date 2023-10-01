@@ -91,9 +91,9 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#24504](https://github.com/mattermost/mattermost/issues/24504) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
-2. ❗ Opened issue [#134](https://github.com/hoppscotch/docs/issues/134) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
-3. 🗣 Commented on [#4437](https://github.com/mattermost/focalboard/issues/4437) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+1. 💪 Opened PR [#6673](https://github.com/mattermost/docs/pull/6673) in [mattermost/docs](https://github.com/mattermost/docs)
+2. ❗ Opened issue [#24504](https://github.com/mattermost/mattermost/issues/24504) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
+3. ❗ Opened issue [#134](https://github.com/hoppscotch/docs/issues/134) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
 4. 💪 Opened PR [#6266](https://github.com/mattermost/docs/pull/6266) in [mattermost/docs](https://github.com/mattermost/docs)
 5. 🗣 Commented on [#304](https://github.com/mattermost/mattermost-plugin-gitlab/issues/304) in [mattermost/mattermost-plugin-gitlab](https://github.com/mattermost/mattermost-plugin-gitlab)
 <!--END_SECTION:activity-->
