@@ -91,11 +91,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6673](https://github.com/mattermost/docs/pull/6673) in [mattermost/docs](https://github.com/mattermost/docs)
-2. ❗ Opened issue [#24504](https://github.com/mattermost/mattermost/issues/24504) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
-3. ❗ Opened issue [#134](https://github.com/hoppscotch/docs/issues/134) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
-4. 💪 Opened PR [#6266](https://github.com/mattermost/docs/pull/6266) in [mattermost/docs](https://github.com/mattermost/docs)
-5. 🗣 Commented on [#304](https://github.com/mattermost/mattermost-plugin-gitlab/issues/304) in [mattermost/mattermost-plugin-gitlab](https://github.com/mattermost/mattermost-plugin-gitlab)
+1. 💪 Opened PR [#6688](https://github.com/mattermost/docs/pull/6688) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 💪 Opened PR [#2](https://github.com/varghesejose2020/docs-1/pull/2) in [varghesejose2020/docs-1](https://github.com/varghesejose2020/docs-1)
+3. 💪 Opened PR [#6673](https://github.com/mattermost/docs/pull/6673) in [mattermost/docs](https://github.com/mattermost/docs)
+4. ❗ Opened issue [#24504](https://github.com/mattermost/mattermost/issues/24504) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
+5. ❗ Opened issue [#134](https://github.com/hoppscotch/docs/issues/134) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
 <!--END_SECTION:activity-->
 
 
