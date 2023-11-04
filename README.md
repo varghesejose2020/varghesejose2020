@@ -32,6 +32,7 @@
  <a href="https://novu.co/contributors/varghesejose2020/"><img src="https://contributors.novu.co/profiles/varghesejose2020-small.jpg"  width="400" alt="" /></a>
 
 </p>
+
 ## ⚡ Technologies
 
 ### Language :
