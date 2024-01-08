@@ -93,11 +93,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6863](https://github.com/mattermost/docs/pull/6863#issuecomment-1880925734) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 💪 Opened PR [#6863](https://github.com/mattermost/docs/pull/6863) in [mattermost/docs](https://github.com/mattermost/docs)
-3. 💪 Opened PR [#7024](https://github.com/nocodb/nocodb/pull/7024) in [nocodb/nocodb](https://github.com/nocodb/nocodb)
-4. 💪 Opened PR [#7009](https://github.com/nocodb/nocodb/pull/7009) in [nocodb/nocodb](https://github.com/nocodb/nocodb)
-5. 💪 Opened PR [#18](https://github.com/osmkerala/osmkerala.github.io/pull/18) in [osmkerala/osmkerala.github.io](https://github.com/osmkerala/osmkerala.github.io)
+1. 🗣 Commented on [#6863](https://github.com/mattermost/docs/pull/6863#issuecomment-1881318783) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 🗣 Commented on [#6863](https://github.com/mattermost/docs/pull/6863#issuecomment-1880925734) in [mattermost/docs](https://github.com/mattermost/docs)
+3. 💪 Opened PR [#6863](https://github.com/mattermost/docs/pull/6863) in [mattermost/docs](https://github.com/mattermost/docs)
+4. 💪 Opened PR [#7024](https://github.com/nocodb/nocodb/pull/7024) in [nocodb/nocodb](https://github.com/nocodb/nocodb)
+5. 💪 Opened PR [#7009](https://github.com/nocodb/nocodb/pull/7009) in [nocodb/nocodb](https://github.com/nocodb/nocodb)
 <!--END_SECTION:activity-->
 
 
