@@ -93,11 +93,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26104](https://github.com/mattermost/mattermost/pull/26104#issuecomment-1979138659) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
-2. 🗣 Commented on [#26104](https://github.com/mattermost/mattermost/pull/26104#issuecomment-1977108146) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
-3. 🗣 Commented on [#26104](https://github.com/mattermost/mattermost/pull/26104#issuecomment-1976636535) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
-4. 🗣 Commented on [#6863](https://github.com/mattermost/docs/pull/6863#issuecomment-1881318783) in [mattermost/docs](https://github.com/mattermost/docs)
-5. 🗣 Commented on [#6863](https://github.com/mattermost/docs/pull/6863#issuecomment-1880925734) in [mattermost/docs](https://github.com/mattermost/docs)
+1. ❗ Opened issue [#6995](https://github.com/mattermost/docs/issues/6995) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 🗣 Commented on [#26104](https://github.com/mattermost/mattermost/pull/26104#issuecomment-1979138659) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
+3. 🗣 Commented on [#26104](https://github.com/mattermost/mattermost/pull/26104#issuecomment-1977108146) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
+4. 🗣 Commented on [#26104](https://github.com/mattermost/mattermost/pull/26104#issuecomment-1976636535) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
+5. 🗣 Commented on [#6863](https://github.com/mattermost/docs/pull/6863#issuecomment-1881318783) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 
 
