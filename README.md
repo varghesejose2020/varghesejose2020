@@ -93,11 +93,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7001](https://github.com/mattermost/docs/pull/7001#issuecomment-2016391360) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 💪 Opened PR [#7001](https://github.com/mattermost/docs/pull/7001) in [mattermost/docs](https://github.com/mattermost/docs)
-3. 🗣 Commented on [#6995](https://github.com/mattermost/docs/issues/6995#issuecomment-2014239404) in [mattermost/docs](https://github.com/mattermost/docs)
-4. ❗ Opened issue [#6995](https://github.com/mattermost/docs/issues/6995) in [mattermost/docs](https://github.com/mattermost/docs)
-5. 🗣 Commented on [#26104](https://github.com/mattermost/mattermost/pull/26104#issuecomment-1979138659) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
+1. 💪 Opened PR [#10](https://github.com/kurianbenoy/Indic-Subtitler/pull/10) in [kurianbenoy/Indic-Subtitler](https://github.com/kurianbenoy/Indic-Subtitler)
+2. 🗣 Commented on [#7001](https://github.com/mattermost/docs/pull/7001#issuecomment-2016391360) in [mattermost/docs](https://github.com/mattermost/docs)
+3. 💪 Opened PR [#7001](https://github.com/mattermost/docs/pull/7001) in [mattermost/docs](https://github.com/mattermost/docs)
+4. 🗣 Commented on [#6995](https://github.com/mattermost/docs/issues/6995#issuecomment-2014239404) in [mattermost/docs](https://github.com/mattermost/docs)
+5. ❗ Opened issue [#6995](https://github.com/mattermost/docs/issues/6995) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 
 
