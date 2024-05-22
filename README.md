@@ -98,11 +98,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#509](https://github.com/jitsi/handbook/issues/509) in [jitsi/handbook](https://github.com/jitsi/handbook)
-2. 🗣 Commented on [#1363](https://github.com/mattermost/mattermost-developer-documentation/pull/1363#issuecomment-2096045979) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-3. 💪 Opened PR [#1363](https://github.com/mattermost/mattermost-developer-documentation/pull/1363) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-4. 🗣 Commented on [#1362](https://github.com/mattermost/mattermost-developer-documentation/pull/1362#issuecomment-2090702222) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-5. 💪 Opened PR [#1362](https://github.com/mattermost/mattermost-developer-documentation/pull/1362) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+1. ❗ Opened issue [#11002](https://github.com/simple-icons/simple-icons/issues/11002) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. ❗ Opened issue [#509](https://github.com/jitsi/handbook/issues/509) in [jitsi/handbook](https://github.com/jitsi/handbook)
+3. 🗣 Commented on [#1363](https://github.com/mattermost/mattermost-developer-documentation/pull/1363#issuecomment-2096045979) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+4. 💪 Opened PR [#1363](https://github.com/mattermost/mattermost-developer-documentation/pull/1363) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+5. 🗣 Commented on [#1362](https://github.com/mattermost/mattermost-developer-documentation/pull/1362#issuecomment-2090702222) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
 <!--END_SECTION:activity-->
 
 
