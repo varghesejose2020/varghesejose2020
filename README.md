@@ -33,6 +33,11 @@
 
 </p>
 
+/*<p align="center">
+<a href="https://developers.mattermost.com/contribute/more-info/mvp/"><img src="assets/img/vjmvp.jpeg"  width="400" alt="" /></a>
+</p>*/
+
+
 ## ⚡ Technologies
 
 ### Language :
