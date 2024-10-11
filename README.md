@@ -103,10 +103,10 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7444](https://github.com/mattermost/docs/pull/7444#issuecomment-2405525427) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 🗣 Commented on [#28614](https://github.com/mattermost/mattermost/pull/28614#issuecomment-2405015810) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
-3. 🗣 Commented on [#28614](https://github.com/mattermost/mattermost/pull/28614#issuecomment-2404236351) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
-4. ❗ Opened issue [#11002](https://github.com/simple-icons/simple-icons/issues/11002) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#7444](https://github.com/mattermost/docs/pull/7444#issuecomment-2405613438) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 🗣 Commented on [#7444](https://github.com/mattermost/docs/pull/7444#issuecomment-2405525427) in [mattermost/docs](https://github.com/mattermost/docs)
+3. 🗣 Commented on [#28614](https://github.com/mattermost/mattermost/pull/28614#issuecomment-2405015810) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
+4. 🗣 Commented on [#28614](https://github.com/mattermost/mattermost/pull/28614#issuecomment-2404236351) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
 5. ❗ Opened issue [#509](https://github.com/jitsi/handbook/issues/509) in [jitsi/handbook](https://github.com/jitsi/handbook)
 <!--END_SECTION:activity-->
 
