@@ -103,11 +103,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7501](https://github.com/mattermost/docs/pull/7501#issuecomment-2429761430) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 🗣 Commented on [#7501](https://github.com/mattermost/docs/pull/7501#issuecomment-2429404274) in [mattermost/docs](https://github.com/mattermost/docs)
-3. 🗣 Commented on [#28690](https://github.com/mattermost/mattermost/pull/28690#issuecomment-2425013291) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
-4. 🗣 Commented on [#28690](https://github.com/mattermost/mattermost/pull/28690#issuecomment-2423824713) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
-5. ❌ Closed PR [#188](https://github.com/mattermost/mattermost-test-management/pull/188) in [mattermost/mattermost-test-management](https://github.com/mattermost/mattermost-test-management)
+1. 🗣 Commented on [#7508](https://github.com/mattermost/docs/pull/7508#issuecomment-2432028550) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 🗣 Commented on [#7501](https://github.com/mattermost/docs/pull/7501#issuecomment-2429761430) in [mattermost/docs](https://github.com/mattermost/docs)
+3. 🗣 Commented on [#7501](https://github.com/mattermost/docs/pull/7501#issuecomment-2429404274) in [mattermost/docs](https://github.com/mattermost/docs)
+4. 🗣 Commented on [#28690](https://github.com/mattermost/mattermost/pull/28690#issuecomment-2425013291) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
+5. 🗣 Commented on [#28690](https://github.com/mattermost/mattermost/pull/28690#issuecomment-2423824713) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
 <!--END_SECTION:activity-->
 
 
