@@ -120,12 +120,11 @@
  <p align="center"> 😃 I would love to connect with you, so please do not hesitate to connect with me on below handles.👇</p>
  
  <p align="center">
- <a href="https://twitter.com/varghesejosedev"><img src="https://user-images.githubusercontent.com/71702982/235300942-700f7965-cc95-441c-956c-3b3beea2d96b.svg" width="25"></img></a>&nbsp;&nbsp;
+ <a href="https://twitter.com/varghesejosedev"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" width="25"></img></a>&nbsp;&nbsp;
  <a href="https://mastodon.social/web/@varghesejose"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg"width="25"></img></a>&nbsp;&nbsp;
 <a href="mailto:varghese.jose@tutanota.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="25"></img></a>&nbsp;&nbsp;
-<a href="https://peerlist.io/varghesejose"><img src="https://avatars.githubusercontent.com/u/69460546?s=200&v=4" width="25"></img></a>&nbsp;&nbsp;
 <a href="https://gitlab.com/varghesejose2020"><img src="https://user-images.githubusercontent.com/71702982/228163937-f94aad21-930d-4b21-8c39-4a23c3e7ce2c.png" width="100"></img></a>&nbsp;&nbsp;
-<a href="https://www.polywork.com/varghesejose"><img src="https://cdn.dribbble.com/users/5584261/avatars/normal/82b4cb25c1aa5b8f7f131e03fb1b7416.png?1593789111" width="25"></img></a>&nbsp;&nbsp;
+
 
   
 </p>
