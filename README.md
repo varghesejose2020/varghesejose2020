@@ -103,11 +103,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#39205](https://github.com/gatsbyjs/gatsby/issues/39205) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-2. ❗ Opened issue [#38474](https://github.com/appsmithorg/appsmith/issues/38474) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
-3. 🗣 Commented on [#134](https://github.com/hoppscotch/docs/issues/134#issuecomment-2571167654) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
-4. ❗ Opened issue [#4589](https://github.com/ente-io/ente/issues/4589) in [ente-io/ente](https://github.com/ente-io/ente)
-5. ❗ Opened issue [#10177](https://github.com/nocodb/nocodb/issues/10177) in [nocodb/nocodb](https://github.com/nocodb/nocodb)
+1. 🗣 Commented on [#38474](https://github.com/appsmithorg/appsmith/issues/38474#issuecomment-2577754265) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
+2. ❗ Opened issue [#39205](https://github.com/gatsbyjs/gatsby/issues/39205) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+3. ❗ Opened issue [#38474](https://github.com/appsmithorg/appsmith/issues/38474) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
+4. 🗣 Commented on [#134](https://github.com/hoppscotch/docs/issues/134#issuecomment-2571167654) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+5. ❗ Opened issue [#4589](https://github.com/ente-io/ente/issues/4589) in [ente-io/ente](https://github.com/ente-io/ente)
 <!--END_SECTION:activity-->
 
 
