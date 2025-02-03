@@ -103,10 +103,10 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/varghesejose2020/hugo-website-hosting/pull/1#issuecomment-2629746477) in [varghesejose2020/hugo-website-hosting](https://github.com/varghesejose2020/hugo-website-hosting)
-2. 🎉 Merged PR [#1](https://github.com/varghesejose2020/hugo-website-hosting/pull/1) in [varghesejose2020/hugo-website-hosting](https://github.com/varghesejose2020/hugo-website-hosting)
-3. 🗣 Commented on [#38474](https://github.com/appsmithorg/appsmith/issues/38474#issuecomment-2577754265) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
-4. ❗ Opened issue [#39205](https://github.com/gatsbyjs/gatsby/issues/39205) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+1. 🎉 Merged PR [#2](https://github.com/varghesejose2020/hugo-website-hosting/pull/2) in [varghesejose2020/hugo-website-hosting](https://github.com/varghesejose2020/hugo-website-hosting)
+2. 🗣 Commented on [#1](https://github.com/varghesejose2020/hugo-website-hosting/pull/1#issuecomment-2629746477) in [varghesejose2020/hugo-website-hosting](https://github.com/varghesejose2020/hugo-website-hosting)
+3. 🎉 Merged PR [#1](https://github.com/varghesejose2020/hugo-website-hosting/pull/1) in [varghesejose2020/hugo-website-hosting](https://github.com/varghesejose2020/hugo-website-hosting)
+4. 🗣 Commented on [#38474](https://github.com/appsmithorg/appsmith/issues/38474#issuecomment-2577754265) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
 5. ❗ Opened issue [#38474](https://github.com/appsmithorg/appsmith/issues/38474) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
 <!--END_SECTION:activity-->
 
