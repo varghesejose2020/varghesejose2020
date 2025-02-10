@@ -103,11 +103,11 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/snapcrafters/mattermost-desktop/issues/118#issuecomment-2646148614) in [snapcrafters/mattermost-desktop](https://github.com/snapcrafters/mattermost-desktop)
-2. ❗ Opened issue [#118](https://github.com/snapcrafters/mattermost-desktop/issues/118) in [snapcrafters/mattermost-desktop](https://github.com/snapcrafters/mattermost-desktop)
-3. 🗣 Commented on [#116](https://github.com/snapcrafters/mattermost-desktop/pull/116#issuecomment-2640562169) in [snapcrafters/mattermost-desktop](https://github.com/snapcrafters/mattermost-desktop)
-4. 💪 Opened PR [#116](https://github.com/snapcrafters/mattermost-desktop/pull/116) in [snapcrafters/mattermost-desktop](https://github.com/snapcrafters/mattermost-desktop)
-5. ❗ Opened issue [#115](https://github.com/snapcrafters/mattermost-desktop/issues/115) in [snapcrafters/mattermost-desktop](https://github.com/snapcrafters/mattermost-desktop)
+1. ❗ Opened issue [#5018](https://github.com/canonical/snapcraft.io/issues/5018) in [canonical/snapcraft.io](https://github.com/canonical/snapcraft.io)
+2. 🗣 Commented on [#118](https://github.com/snapcrafters/mattermost-desktop/issues/118#issuecomment-2646148614) in [snapcrafters/mattermost-desktop](https://github.com/snapcrafters/mattermost-desktop)
+3. ❗ Opened issue [#118](https://github.com/snapcrafters/mattermost-desktop/issues/118) in [snapcrafters/mattermost-desktop](https://github.com/snapcrafters/mattermost-desktop)
+4. 🗣 Commented on [#116](https://github.com/snapcrafters/mattermost-desktop/pull/116#issuecomment-2640562169) in [snapcrafters/mattermost-desktop](https://github.com/snapcrafters/mattermost-desktop)
+5. 💪 Opened PR [#116](https://github.com/snapcrafters/mattermost-desktop/pull/116) in [snapcrafters/mattermost-desktop](https://github.com/snapcrafters/mattermost-desktop)
 <!--END_SECTION:activity-->
 
 
