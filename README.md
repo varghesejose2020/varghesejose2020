@@ -7,12 +7,10 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/varghesejose2020)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/varghesejose2020)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=varghesejose2020&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/varghesejose2020/varghesejose2020?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-
-
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/varghesejose2020/varghesejose2020?logo=markdown&label=LAST+UPDATE&color=29bf12&syle=flat">
  🔭 I’m currently exploring the world of Open Source. <br/>
  :space_invader: I’m looking forward to contribute to **Open Source Projects**.<br/>
- 👨‍💻 I’m currently working on  No Code,Low Code application opensource frameworks.<br/>
+
   :raised_hands: Communities active with ![MLH](https://img.shields.io/badge/Major%20League%20Hacking-548CFF.svg?\&style=plastic\&logo=majorleaguehacking\&logoColor=265A8F) ![Mattermost](https://img.shields.io/badge/Mattermost-navy?\&style=plastic\&logo=mattermost\&logoColor=0058CC)  ![GitLab](https://img.shields.io/badge/GitLab-navy?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) </br>
  💻 I'm actively contributing on [![Mattermost](https://img.shields.io/badge/Mattermost-navy?\&style=plastic\&logo=mattermost\&logoColor=0058CC)](https://mattermost.com/) ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-120078.svg?\&style=plastic\&logo=hoppscotch\&logoColor=31C48D) ![Gatsby](https://img.shields.io/badge/Gatsby-navy?\&style=plastic\&logo=gatsby\&logoColor=663399)</br>
  🌟 Contributed in the [![TwilioTalon](https://img.shields.io/badge/Twilio%20Talon-navy?style=plastic&logo=twilio)](https://github.com/TwilioQuest/talon)program designed to send Twilio developers  code to space. [see my code on space](https://drive.google.com/file/d/1zF8x--A3_6KCpTKJ0QUyD2_ZnO-SCJjh/view)</br>
