@@ -103,8 +103,8 @@
 # ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1486](undefined) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-2. ❗ Opened issue [#311](https://github.com/hoppscotch/docs/issues/311) in [hoppscotch/docs](https://github.com/hoppscotch/docs)
+1. ❌ Merged PR [#1486](undefined) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+2. 💪 Opened PR [#1486](undefined) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
 3. 🗣 Commented on [#118](https://github.com/snapcrafters/mattermost-desktop/issues/118#issuecomment-2646148614) in [snapcrafters/mattermost-desktop](https://github.com/snapcrafters/mattermost-desktop)
 4. ❗ Opened issue [#118](https://github.com/snapcrafters/mattermost-desktop/issues/118) in [snapcrafters/mattermost-desktop](https://github.com/snapcrafters/mattermost-desktop)
 5. 🗣 Commented on [#116](https://github.com/snapcrafters/mattermost-desktop/pull/116#issuecomment-2640562169) in [snapcrafters/mattermost-desktop](https://github.com/snapcrafters/mattermost-desktop)
