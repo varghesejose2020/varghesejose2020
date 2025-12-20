@@ -26,7 +26,7 @@
  <br/>
  🏅 Won *prize* in ![Gitlab](https://img.shields.io/badge/GitLab%20October%202025%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) [Please check it out](https://forum.gitlab.com/t/announcing-the-october-2025-hackathon-results/131322)
  <br/>
- 
+ ![GitLab Contributor Stats](https://contributors.gitlab.com/users/varghesejose2020/banner.svg)
 
 [![An image of @varghesejose2020's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varghesejose2020)](https://holopin.io/@varghesejose2020)
 
